@@ -1,0 +1,17 @@
+(dp0
+S'JK'
+p1
+(lp2
+I1
+aI1
+asS'11111111111'
+p3
+(lp4
+I1
+aI1
+asS'Nike'
+p5
+(lp6
+I5
+aI9
+as.
